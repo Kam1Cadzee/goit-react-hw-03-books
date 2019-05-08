@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import BookSearch from './components/BookSearch/BookSearch';
 
-ReactDOM.render(<h1>Hello</h1>, document.getElementById('root'));
+ReactDOM.render(<BookSearch />, document.getElementById('root'));

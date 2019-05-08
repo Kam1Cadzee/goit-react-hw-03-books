@@ -1,0 +1,14 @@
+.container {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.container input,
+select {
+  border: none;
+  box-shadow: 0 0 2px #94a9dc;
+  padding: 8px 16px;
+  margin: 0 4px;
+  background-color: transparent;
+}
